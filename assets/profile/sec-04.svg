@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="54" viewBox="0 0 900 54" role="img" aria-label="Education">
+<style>
+  text{font-family:Georgia,'Times New Roman',serif}
+  .body{fill:#30343B}.accent{fill:#8C1F33}
+  .rule{stroke:#8C1F33}
+  .ps{stop-color:#FFFBF6}.pe{stop-color:#F7E9E8}
+  .ni{stop-color:#8C1F33}.nm{stop-color:#C0506A}
+  @media(prefers-color-scheme:dark){
+    .body{fill:#D5DAE1}.accent{fill:#E58A9A}
+    .rule{stroke:#E58A9A}
+    .ps{stop-color:#141118}.pe{stop-color:#251A22}
+    .ni{stop-color:#F2C9CF}.nm{stop-color:#8C1F33}
+  }
+</style>
+  <text x="0" y="40" class="accent" font-size="12" letter-spacing="1">04</text>
+  <text x="34" y="42" class="accent" font-size="24">Education</text>
+  <path d="M171 36H900" class="rule" stroke-width="1" opacity="0.25"/>
+</svg>

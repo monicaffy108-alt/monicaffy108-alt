@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="172" viewBox="0 0 900 172" role="img" aria-label="**BMW · DJI · Geely** — embodied intelligence work across automotive and aerial robotics. 〔待补充：项目、职位、起止时间〕 **Robotics Company** — 〔待补充：公司 / 实验室、职位、起止时间、一句话成果〕 **Dexterous hand stack (LinkerHand L20)** — designed and ship">
+<style>
+  text{font-family:Georgia,'Times New Roman',serif}
+  .body{fill:#30343B}.accent{fill:#8C1F33}
+  .rule{stroke:#8C1F33}
+  .ps{stop-color:#FFFBF6}.pe{stop-color:#F7E9E8}
+  .ni{stop-color:#8C1F33}.nm{stop-color:#C0506A}
+  @media(prefers-color-scheme:dark){
+    .body{fill:#D5DAE1}.accent{fill:#E58A9A}
+    .rule{stroke:#E58A9A}
+    .ps{stop-color:#141118}.pe{stop-color:#251A22}
+    .ni{stop-color:#F2C9CF}.nm{stop-color:#8C1F33}
+  }
+</style>
+<text x="0" y="26" class="body" font-size="19" xml:space="preserve"><tspan font-weight="700">BMW</tspan><tspan> </tspan><tspan font-weight="700">·</tspan><tspan> </tspan><tspan font-weight="700">DJI</tspan><tspan> </tspan><tspan font-weight="700">·</tspan><tspan> </tspan><tspan font-weight="700">Geely</tspan><tspan> </tspan><tspan>—</tspan><tspan> </tspan><tspan>embodied</tspan><tspan> </tspan><tspan>intelligence</tspan><tspan> </tspan><tspan>work</tspan><tspan> </tspan><tspan>across</tspan><tspan> </tspan><tspan>automotive</tspan><tspan> </tspan><tspan>and</tspan><tspan> </tspan><tspan>aerial</tspan><tspan> </tspan><tspan>robotics.</tspan></text><text x="0" y="52" class="body" font-size="19" xml:space="preserve"><tspan>〔待补充：项目、职位、起止时间〕</tspan></text><text x="0" y="88" class="body" font-size="19" xml:space="preserve"><tspan font-weight="700">Robotics</tspan><tspan> </tspan><tspan font-weight="700">Company</tspan><tspan> </tspan><tspan>—</tspan><tspan> </tspan><tspan>〔待补充：公司</tspan><tspan> </tspan><tspan>/</tspan><tspan> </tspan><tspan>实验室、职位、起止时间、一句话成果〕</tspan></text><text x="0" y="124" class="body" font-size="19" xml:space="preserve"><tspan font-weight="700">Dexterous</tspan><tspan> </tspan><tspan font-weight="700">hand</tspan><tspan> </tspan><tspan font-weight="700">stack</tspan><tspan> </tspan><tspan font-weight="700">(LinkerHand</tspan><tspan> </tspan><tspan font-weight="700">L20)</tspan><tspan> </tspan><tspan>—</tspan><tspan> </tspan><tspan>designed</tspan><tspan> </tspan><tspan>and</tspan><tspan> </tspan><tspan>shipped</tspan><tspan> </tspan><tspan>the</tspan><tspan> </tspan><tspan>software</tspan><tspan> </tspan><tspan>layer:</tspan><tspan> </tspan><tspan>gesture</tspan></text><text x="0" y="150" class="body" font-size="19" xml:space="preserve"><tspan>sequencing,</tspan><tspan> </tspan><tspan>inertia</tspan><tspan> </tspan><tspan>calibration,</tspan><tspan> </tspan><tspan>URDF</tspan><tspan> </tspan><tspan>validation.</tspan><tspan> </tspan><tspan>2026</tspan></text>
+</svg>

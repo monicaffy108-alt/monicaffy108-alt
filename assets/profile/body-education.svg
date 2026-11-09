@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="82" viewBox="0 0 900 82" role="img" aria-label="**〔学校〕** · 〔专业 / 学位〕 〔20xx.xx – 20xx.xx〕　〔待补充：奖学金、竞赛、论文或荣誉〕">
+<style>
+  text{font-family:Georgia,'Times New Roman',serif}
+  .body{fill:#30343B}.accent{fill:#8C1F33}
+  .rule{stroke:#8C1F33}
+  .ps{stop-color:#FFFBF6}.pe{stop-color:#F7E9E8}
+  .ni{stop-color:#8C1F33}.nm{stop-color:#C0506A}
+  @media(prefers-color-scheme:dark){
+    .body{fill:#D5DAE1}.accent{fill:#E58A9A}
+    .rule{stroke:#E58A9A}
+    .ps{stop-color:#141118}.pe{stop-color:#251A22}
+    .ni{stop-color:#F2C9CF}.nm{stop-color:#8C1F33}
+  }
+</style>
+<text x="112" y="24" class="body" font-size="19" xml:space="preserve"><tspan font-weight="700">〔学校〕</tspan><tspan> </tspan><tspan>·</tspan><tspan> </tspan><tspan>〔专业</tspan><tspan> </tspan><tspan>/</tspan><tspan> </tspan><tspan>学位〕</tspan></text><text x="112" y="60" class="body" font-size="19" xml:space="preserve"><tspan>〔20xx.xx</tspan><tspan> </tspan><tspan>–</tspan><tspan> </tspan><tspan>20xx.xx〕　〔待补充：奖学金、竞赛、论文或荣誉〕</tspan></text><g><circle cx="54" cy="34" r="32" fill="none" class="rule" stroke-opacity="0.45" stroke-dasharray="4 5"/><text x="54" y="39" text-anchor="middle" font-size="10" fill="#8C1F33" fill-opacity="0.8">BADGE</text></g>
+</svg>
