@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="112" viewBox="0 0 900 112" role="img" aria-label="Education">
+<style>text{font-family:Georgia, 'Times New Roman', serif}.body{fill:#30343B}.accent{fill:#873C55}.rule{stroke:#873C55}@media(prefers-color-scheme:dark){.body{fill:#D5DAE1}.accent{fill:#D9A2B7}.rule{stroke:#D9A2B7}}</style>
+  <g transform="translate(2,10)"><circle cx="17" cy="17" r="16" fill="none" class="rule" stroke-width="1.2" stroke-dasharray="3 4" opacity="0.65"/>
+  <text x="17" y="21" text-anchor="middle" class="accent" font-size="8">BADGE</text></g>
+  <text x="46" y="33" class="accent" font-size="21" font-weight="700">〔University〕 · 〔School〕</text>
+  <text x="46" y="59" class="body" font-size="19" font-weight="700">〔Degree〕 · 〔20xx.xx – 20xx.xx〕</text>
+  <text x="46" y="85" class="body" font-size="19">〔待补充：奖学金、竞赛、论文或荣誉〕</text>
+</svg>
