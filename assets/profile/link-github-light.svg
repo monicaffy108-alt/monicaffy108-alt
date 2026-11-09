@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="160" height="42" viewBox="0 0 160 42" role="img" aria-label="GITHUB">
+  <rect width="160" height="42" fill="none"/>
+  <rect x="0.75" y="0.75" width="158.5" height="40.5" rx="21" fill="none" stroke="#121214" stroke-opacity="0.26" stroke-width="1.5"/>
+  <text x="24" y="27" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Times New Roman, serif" font-size="13" letter-spacing="3" fill="#121214">GITHUB</text>
+  <text x="136" y="27" text-anchor="end" font-family="Iowan Old Style, Palatino Linotype, Palatino, Georgia, Times New Roman, serif" font-size="13" fill="#C40024">↗</text>
+</svg>
