@@ -53,25 +53,15 @@ I care about small tools that actually finish — every repository below runs en
   <img alt="04 — Toolbox" src="assets/profile/sec-04-toolbox-light.svg" width="100%">
 </picture>
 
-**Robotics** &nbsp;·&nbsp; Python · MuJoCo · ROS 2 · URDF · LeRobot
-**Hardware** &nbsp;·&nbsp; LinkerHand L20 · Intel RealSense · Unitree G1
-**Front-end** &nbsp;·&nbsp; Vue 3 · Vite · TypeScript · HTML / CSS
-**Design** &nbsp;·&nbsp; Rhino · KeyShot · Figma · Photoshop · Illustrator
+**Robotics** &nbsp;·&nbsp; Python · MuJoCo · ROS 2 · URDF · LeRobot<br/>
+**Hardware** &nbsp;·&nbsp; LinkerHand L20 · Intel RealSense · Unitree G1<br/>
+**Front-end** &nbsp;·&nbsp; Vue 3 · Vite · TypeScript · HTML / CSS<br/>
+**Design** &nbsp;·&nbsp; Rhino · KeyShot · Figma · Photoshop · Illustrator<br/>
 **Workflow** &nbsp;·&nbsp; Git · VS Code · WSL · Blender
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/sec-05-github-dark.svg">
-  <img alt="05 — On GitHub" src="assets/profile/sec-05-github-light.svg" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monicaffy108-alt&theme=github_dark">
-  <img alt="GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monicaffy108-alt&theme=github" width="100%">
-</picture>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/sec-06-contact-dark.svg">
-  <img alt="06 — Contact" src="assets/profile/sec-06-contact-light.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)" srcset="assets/profile/sec-05-contact-dark.svg">
+  <img alt="05 — Contact" src="assets/profile/sec-05-contact-light.svg" width="100%">
 </picture>
 
 Design, robots, front-end, or anything in between. The fastest way to reach me is email — I answer everything.
