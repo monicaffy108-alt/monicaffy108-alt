@@ -64,7 +64,10 @@ I care about small tools that actually finish — every repository below runs en
   <img alt="05 — On GitHub" src="assets/profile/sec-05-github-light.svg" width="100%">
 </picture>
 
-<img alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=monicaffy108-alt&show_icons=true&hide_border=true&theme=transparent&title_color=FF2E4D&icon_color=FF2E4D&text_color=8B8B93&rank_icon=github" width="49%"> <img alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=monicaffy108-alt&layout=compact&langs_count=6&hide_border=true&theme=transparent&title_color=FF2E4D&text_color=8B8B93" width="42%">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monicaffy108-alt&theme=github_dark">
+  <img alt="GitHub contribution overview" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=monicaffy108-alt&theme=github" width="100%">
+</picture>
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="assets/profile/sec-06-contact-dark.svg">
