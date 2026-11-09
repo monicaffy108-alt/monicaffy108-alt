@@ -12,7 +12,15 @@
 
 <img src="assets/profile/sec-03.svg?v=20261110" width="100%" alt="03 Selected Projects">
 
-<img src="assets/profile/body-projects.svg?v=20261110" width="100%" alt="Selected repositories: Urdf-checker-Webber, dexhand-inertia-toolkit, L20-LeRobot-ACT-Grasp, l20-gesture-sequencer, Realsense-mediapipe-3d-detection, unitree-g1-simulation">
+[<img src="assets/profile/project-1.svg?v=20261110" width="100%" alt="L20-LeRobot-ACT-Grasp: vision-conditioned grasping on the LinkerHand L20 with ACT">](https://github.com/monicaffy108-alt/L20-LeRobot-ACT-Grasp)
+
+[<img src="assets/profile/project-2.svg?v=20261110" width="100%" alt="l20-gesture-sequencer: teleoperation and retargeting for the L20">](https://github.com/monicaffy108-alt/l20-gesture-sequencer)
+
+[<img src="assets/profile/project-3.svg?v=20261110" width="100%" alt="dexhand-inertia-toolkit: URDF mass and inertia calibration">](https://github.com/monicaffy108-alt/dexhand-inertia-toolkit)
+
+[<img src="assets/profile/project-4.svg?v=20261110" width="100%" alt="unitree-g1-simulation: MuJoCo humanoid sandbox">](https://github.com/monicaffy108-alt/unitree-g1-simulation)
+
+[<img src="assets/profile/project-5.svg?v=20261110" width="100%" alt="Urdf-checker-Webber: browser URDF linter">](https://github.com/monicaffy108-alt/Urdf-checker-Webber)
 
 <img src="assets/profile/sec-04.svg?v=20261110" width="100%" alt="04 Education">
 
