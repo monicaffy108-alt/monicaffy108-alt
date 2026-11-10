@@ -1,6 +1,6 @@
 ﻿<img src="assets/profile/header.svg?v=20261110l" width="100%" alt="Monica — 伏飞燕 · Embodied AI, dexterous manipulation, robot learning">
 
-[![Website](assets/profile/link-website.svg?v=20261110)](#) [![GitHub](assets/profile/link-github.svg?v=20261110)](https://github.com/monicaffy108-alt) [![Email](assets/profile/link-email.svg?v=20261110)](mailto:monicaffy108@gmail.com) [![小红书](assets/profile/link-red.svg?v=20261110)](https://xhslink.cn/m/7UPHF0BFY0z)
+[![Website](assets/profile/link-website.svg?v=20261110)](https://monicaffy108-alt.github.io/) [![GitHub](assets/profile/link-github.svg?v=20261110)](https://github.com/monicaffy108-alt) [![Email](assets/profile/link-email.svg?v=20261110)](mailto:monicaffy108@gmail.com) [![小红书](assets/profile/link-red.svg?v=20261110)](https://xhslink.cn/m/7UPHF0BFY0z)
 
 <img src="assets/profile/sec-01.svg?v=20261110l" width="100%" alt="01 About">
 
