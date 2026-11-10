@@ -10,7 +10,13 @@
 
 <img src="assets/profile/body-research.svg?v=20261110" width="100%" alt="Robotics experience: BMW, DJI, Geely embodied intelligence work, dexterous hand software stack for LinkerHand L20">
 
-<img src="assets/profile/sec-03.svg?v=20261110" width="100%" alt="03 Selected Projects">
+<img src="assets/profile/sec-03.svg?v=20261110" width="100%" alt="03 Publications">
+
+<img src="assets/profile/pub-1.svg?v=20261110" width="100%" alt="Route Models, Not Modalities: What Adaptive Computation Can and Cannot Save in Multimodal Meme Understanding — under review, NAACL 2027">
+
+<img src="assets/profile/pub-2.svg?v=20261110" width="100%" alt="Does Visually Grounded Reasoning Warn of Forgetting? Two Pre-registered Tests in Vision-Language Fine-tuning — under review, CVPR 2027">
+
+<img src="assets/profile/sec-04.svg?v=20261110" width="100%" alt="04 Selected Projects">
 
 [<img src="assets/profile/project-1.svg?v=20261110" width="100%" alt="L20-LeRobot-ACT-Grasp: vision-conditioned grasping on the LinkerHand L20 with ACT">](https://github.com/monicaffy108-alt/L20-LeRobot-ACT-Grasp)
 
@@ -22,15 +28,15 @@
 
 [<img src="assets/profile/project-5.svg?v=20261110" width="100%" alt="Urdf-checker-Webber: browser URDF linter">](https://github.com/monicaffy108-alt/Urdf-checker-Webber)
 
-<img src="assets/profile/sec-04.svg?v=20261110" width="100%" alt="04 Education">
+<img src="assets/profile/sec-05.svg?v=20261110" width="100%" alt="05 Education">
 
 <img src="assets/profile/body-education.svg?v=20261110" width="100%" alt="Education">
 
-<img src="assets/profile/sec-05.svg?v=20261110" width="100%" alt="05 Toolkit">
+<img src="assets/profile/sec-06.svg?v=20261110" width="100%" alt="06 Toolkit">
 
 <img src="assets/profile/body-toolkit.svg?v=20261110" width="100%" alt="Toolkit: Python, MuJoCo, ROS 2, URDF, LeRobot, LinkerHand L20, RealSense, Vue 3">
 
-<img src="assets/profile/sec-06.svg?v=20261110" width="100%" alt="06 Contact">
+<img src="assets/profile/sec-07.svg?v=20261110" width="100%" alt="07 Contact">
 
 <img src="assets/profile/body-contact.svg?v=20261110" width="100%" alt="I am glad to talk about dexterous manipulation, robot learning, or tooling for hardware teams.">
 
