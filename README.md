@@ -16,6 +16,8 @@
 
 <img src="assets/profile/pub-2.svg?v=20261110d" width="100%" alt="Does Visually Grounded Reasoning Warn of Forgetting? Two Pre-registered Tests in Vision-Language Fine-tuning — under review, CVPR 2027">
 
+<img src="assets/profile/pub-3.svg?v=20261110d" width="100%" alt="2026 IEEE Big Data-Traffic Flow Bench — Kaggle, vacucity, final rank #8 of 619 teams">
+
 <img src="assets/profile/sec-04.svg?v=20261110d" width="100%" alt="04 Selected Projects">
 
 [<img src="assets/profile/project-1.svg?v=20261110d" width="100%" alt="L20-LeRobot-ACT-Grasp: vision-conditioned grasping on the LinkerHand L20 with ACT">](https://github.com/monicaffy108-alt/L20-LeRobot-ACT-Grasp)
