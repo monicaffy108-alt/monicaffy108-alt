@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" role="img" aria-label="02 Research &amp; Internship Experience">
-<style>text{font-family:Georgia,'Times New Roman',serif}.accent{fill:#873C55}.rule{stroke:#30343B}@media(prefers-color-scheme:dark){.accent{fill:#D9A2B7}.rule{stroke:#D5DAE1}}</style>
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="52" viewBox="0 0 900 52" role="img" aria-label="Research &amp;amp; Internship Experience">
+<style>text{font-family:Georgia, 'Times New Roman', serif}.body{fill:#30343B}.accent{fill:#873C55}.rule{stroke:#873C55}@media(prefers-color-scheme:dark){.body{fill:#D5DAE1}.accent{fill:#D9A2B7}.rule{stroke:#D9A2B7}}</style>
   <text x="0" y="40" class="accent" font-size="12" letter-spacing="1">02</text>
   <text x="34" y="42" class="accent" font-size="24">Research &amp; Internship Experience</text>
-  <path d="M427 36H900" class="rule" stroke-width="1" opacity="0.25"/>
+  <path d="M492 36H900" class="rule" stroke-width="1" opacity="0.25"/>
 </svg>
